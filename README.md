@@ -53,3 +53,4 @@ You may use AI tools to study and to clarify concepts, but the code you submit m
 
 ## Why These Restrictions?
 These rules are in place so that you actually practice and learn Rust, build real skills, and can be fairly assessed. Doing the work yourself is how you learn; shortcuts defeat the purpose of the exercises and don’t prepare you for what comes next in the program.
+
